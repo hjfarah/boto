@@ -17,6 +17,6 @@ instance = ec2.create_instances(ImageId='ami-035b3c7efe6d061d5',
 
 print(instance[0].id)
 
-#13.57.226.168
+#113.57.226.168
 
 #056ee704806822732 0b898040803850657 035b3c7efe6d061d5
